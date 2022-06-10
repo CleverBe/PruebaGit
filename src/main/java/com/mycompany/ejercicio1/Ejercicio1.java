@@ -34,5 +34,6 @@ public class Ejercicio1 {
         
         System.out.println("El porcentaje de hombres es: "+porcentajeHombres);
         System.out.println("El porcentaje de mujeres es: "+porcentajeMujeres);
+System.out.println("El porcentaje de mujeres es: "+porcentajeMujeres);
     }
 }
