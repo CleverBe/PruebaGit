@@ -32,7 +32,7 @@ public class Ejercicio1 {
         porcentajeHombres=numHombres*100f/totalAlumnos;
         porcentajeMujeres=numMujeres*100f/totalAlumnos;
         
-        System.out.println("El porcentaje de hombres es: "+porcentajeHombres);
+        System.out.println("El porcentaje de hombres es: el mejor "+porcentajeHombres);
         System.out.println("El porcentaje de mujeres es: "+porcentajeMujeres);
 System.out.println("El porcentaje de mujeres es: "+porcentajeMujeres);
     }
