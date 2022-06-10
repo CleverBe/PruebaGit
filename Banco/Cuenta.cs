@@ -6,8 +6,10 @@ using System.Threading.Tasks;
 
 namespace Banco
 {
+
     class Cuenta
     {
+        protected string name;
         protected string titular;
         protected double cantidad;
         public Cuenta()
